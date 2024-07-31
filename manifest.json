@@ -1,0 +1,34 @@
+{
+  "name": "Ram Awtar Enterprises",
+  "short_name": "RAE",
+  "start_url": "zonetocode.com",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#231f20",
+  "theme_color": "#00a67d",
+  "orientation": "any",
+  "description": "Discover Ram Awtar, an expert interior design company, dedicated to transforming spaces with personalized and innovative design solutions. Our process includes understanding your vision, detailed discussions, ideal design creation, and precise construction, ensuring your dream space comes to life with elegance and functionality.",
+  "icons": [
+    {
+      "src": "img/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "img/favicon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
